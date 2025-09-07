@@ -1,0 +1,28 @@
+{
+  "workflow_phase": "initialized",
+  "context_data": {
+    "user_request": "TODOアプリを作成したい",
+    "project_type": "web_application",
+    "target_audience": "general_users",
+    "core_features": [
+      "task_creation",
+      "task_editing",
+      "task_deletion",
+      "task_completion",
+      "task_listing"
+    ],
+    "technical_preferences": {
+      "framework": "react",
+      "language": "typescript",
+      "styling": "tailwind_css",
+      "storage": "local_storage"
+    }
+  },
+  "decision_history": [],
+  "quality_requirements": {
+    "test_coverage": 95,
+    "accessibility": "wcag_2_1_aa",
+    "performance": "core_web_vitals"
+  },
+  "updated_at": "2025-01-16T09:00:00Z"
+}

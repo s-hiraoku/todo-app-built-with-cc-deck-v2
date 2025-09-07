@@ -1,0 +1,30 @@
+{
+  "project": "todo-app",
+  "feature": "core-functionality",
+  "phase": "tasks-generated",
+  "language": "japanese",
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": true
+    }
+  },
+  "progress": {
+    "requirements": 100,
+    "design": 100,
+    "tasks": 100
+  },
+  "context_references": ["#codebase", "#folder:components/"],
+  "mcp_tools": ["context7", "deepwiki"],
+  "created_at": "2025-01-16T09:00:00Z",
+  "updated_at": "2025-01-16T19:45:00Z",
+  "ready_for_implementation": true
+}

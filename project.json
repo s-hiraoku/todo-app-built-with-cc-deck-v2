@@ -1,0 +1,9 @@
+{
+  "project": "todo-app",
+  "description": "Modern web-based TODO application for task management with adding, editing, deleting, and completion tracking features",
+  "language": "japanese",
+  "tech_stack": ["React", "TypeScript", "Tailwind CSS", "Local Storage"],
+  "created_at": "2025-01-16T09:00:00Z",
+  "active_features": ["core-functionality"],
+  "steering_files": ["coding-standards.md", "architecture.md"]
+}
